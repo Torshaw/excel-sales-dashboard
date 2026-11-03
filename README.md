@@ -134,10 +134,10 @@ Tolu recorded the highest revenue contribution among the five salespersons.
 Amakas-Mega-Mart-Sales-Analysis/
 │
 ├── README.md
-├── Sales_Performance_Report.pdf
+├── Amak_Mega_Mart_Sales_Performance_Report.pdf
 │
 ├── excel/
-│   └── Sales_Data_Cleaned.xlsx
+│   └── Amak_Mega_Mart_Sales_Data_Cleaned.xlsx
 │
 └── image/
     └── amaka_mega_mart.png
@@ -147,9 +147,9 @@ Amakas-Mega-Mart-Sales-Analysis/
 
 **Abdulmuiz Abdulazeez Arikewushola**
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+Entry-Level Data Analyst | Excel | SQL | Power BI | Python
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/torshaw)
+[LinkedIn](https://www.linkedin.com/in/torshaw) | [E-mail](aatorshaw.@gmail.com)
 
 ---
 
