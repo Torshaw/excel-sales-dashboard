@@ -147,7 +147,7 @@ Amakas-Mega-Mart-Sales-Analysis/
 
 **Abdulmuiz Abdulazeez Arikewushola**
 
-Entry-Level Data Analyst | Excel | SQL | Power BI | Python
+Data Analyst | Excel | SQL | Power BI | Python
 
 [LinkedIn](https://www.linkedin.com/in/torshaw) | [E-mail](aatorshaw.@gmail.com)
 
